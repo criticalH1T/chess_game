@@ -12,7 +12,7 @@ from configparser import ConfigParser
 from settings import *
 from enums import Player
 
-file = 'C:\\AUBG\\2021 Fall Semester\\COS 340\\Chess_Game\\config.ini'
+file = 'config.ini'
 config = ConfigParser()
 config.read(file)
 

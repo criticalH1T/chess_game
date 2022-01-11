@@ -47,19 +47,19 @@ class GameState:
         '''
         Reading from csv file
         '''
-        self.white_pieces = []
-        self.black_pieces = []
-        # using absolute paths so the unittests can run
-        with open("C:\\AUBG\\2021 Fall Semester\\COS 340\\Chess_Game\\pieces\\white_pieces.csv", "r") as \
-                white_pieces_file:
-            reader = csv.reader(white_pieces_file)
-            for row in reader:
-                self.white_pieces.append(row)
-        with open("C:\\AUBG\\2021 Fall Semester\\COS 340\\Chess_Game\\pieces\\black_pieces.csv", "r") as \
-                black_pieces_file:
-            reader = csv.reader(black_pieces_file)
-            for row in reader:
-                self.black_pieces.append(row)
+        # self.white_pieces = []
+        # self.black_pieces = []
+        # # using absolute paths so the unittests can run
+        # with open("C:\\AUBG\\2021 Fall Semester\\COS 340\\Chess_Game\\pieces\\white_pieces.csv", "r") as \
+        #         white_pieces_file:
+        #     reader = csv.reader(white_pieces_file)
+        #     for row in reader:
+        #         self.white_pieces.append(row)
+        # with open("C:\\AUBG\\2021 Fall Semester\\COS 340\\Chess_Game\\pieces\\black_pieces.csv", "r") as \
+        #         black_pieces_file:
+        #     reader = csv.reader(black_pieces_file)
+        #     for row in reader:
+        #         self.black_pieces.append(row)
 
         if self.bottom_color == 'w':
 
