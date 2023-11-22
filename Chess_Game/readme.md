@@ -14,14 +14,19 @@ Additionally, there is a bottom panel that displays which color is next to move 
 Below are a few demos of what the game looks like.
 
 
+General functionalities:
 
-https://user-images.githubusercontent.com/82686036/158033162-fd796431-cea4-4a76-9cda-aec8e82ea3fd.mp4
+https://github.com/criticalH1T/chess_game/assets/82686036/8812dc9e-bc76-405a-a4c0-ed8d736be8b4
 
+Black side demo & check functionality:
 
+https://github.com/criticalH1T/chess_game/assets/82686036/f0c86dfb-e870-41cd-ba40-82a68c380a40
 
-https://user-images.githubusercontent.com/82686036/158033167-a7681a14-7f32-4194-8b50-4521c3aa507c.mp4
+Castling:
 
+https://github.com/criticalH1T/chess_game/assets/82686036/ac7670c6-c0ca-44b0-88d2-458220871c9a
 
+Checkmate:
 
-https://user-images.githubusercontent.com/82686036/158033170-cec89e67-3b8d-4163-be60-9950cd508bbe.mp4
+https://github.com/criticalH1T/chess_game/assets/82686036/14fded0e-725a-49b9-9608-9235ca605f51
 
